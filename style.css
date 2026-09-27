@@ -1,0 +1,60 @@
+.one {
+  text-align: center;
+  border: double;
+  border-color: green;
+  color: green
+}
+
+
+.two {
+  border-style:double;
+  border: solid 3px;
+  border-color: white;
+  border-radius: 10px;
+  color: white;
+  font-family: cursive;
+  padding: 4px;
+  background-color: #2b8f1c;
+  text-align: center
+}
+
+.three {
+  color: green;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+img {
+  width: 450px;
+
+  border-style:double;
+  border: solid 3px;
+  border-radius: 10px;
+  border-color: white;
+  font-family: cursive;
+  padding: 4px;
+  background-color: #2b8f1c;
+}
+
+
+body {
+  background-color: lightgray;
+}
+
+
+.four {
+  border-style:double;
+  border: solid 3px;
+  border-color: white;
+  border-radius: 10px;
+  color: white;
+  font-family: cursive;
+  padding: 4px;
+  background-color: #2b8f1c;
+}
